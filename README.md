@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm cylin577
 
-<!--
-**cylin577/cylin577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Student from Taiwan
+- 🐧 Proficient Linux user
+- 🐍 Python and Machine Learning enthusiast
+- 🛠️ I improve and maintain software projects, especially emulators like [newer-Mu](https://github.com/cylin577/newer-Mu)
+- 💡 Passionate about solving real problems and advancing open source
 
-Here are some ideas to get you started:
+## 🔥 Featured Projects
+- [newer-Mu](https://github.com/cylin577/newer-Mu): Fork of the Mu Palm OS emulator, focused on fixing issues and modernizing code
+- [TPT-builder](https://github.com/cylin577/TPT-builder): Utilities for The Powder Toy community
+- [linux-destroy](https://github.com/cylin577/linux-destroy): Fun and experimental Linux utilities
+- Contributed to [Azahar Emulator (Flathub)](https://github.com/flathub/org.azahar_emu.Azahar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills & Interests
+- Linux systems & scripting
+- Python programming & machine learning
+- Software maintenance and modernization
+- Open source collaboration
+
+## 🏆 Achievements
+- **Recompiled Mesa 10+ times:** Because I hate my self and I just want GPU working on my chromebook.
+
+## 🌐 Connect
+- 🌏 Location: Taiwan
+- 🏠 GitHub: [cylin577](https://github.com/cylin577)
+
+---
+
+_I’m always looking for practical ways to improve software. If you’re interested in collaboration or open source, let’s connect!_
