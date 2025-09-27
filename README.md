@@ -3,7 +3,7 @@
 - 🎓 Student from Taiwan
 - 🐧 Proficient Linux user
 - 🐍 Python and Machine Learning enthusiast
-- 🛠️ I improve and maintain software projects, especially emulators like [newer-Mu](https://github.com/cylin577/newer-Mu)
+- 🛠️ I improve and maintain software projects, especially emulators like [newest-Mu](https://github.com/cylin577/newest-Mu)
 - 💡 Passionate about solving real problems and advancing open source
 
 ## 🔥 Featured Projects
