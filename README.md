@@ -7,7 +7,7 @@
 - 💡 Passionate about solving real problems and advancing open source
 
 ## 🔥 Featured Projects
-- [newer-Mu](https://github.com/cylin577/newer-Mu): Fork of the Mu Palm OS emulator, focused on fixing issues and modernizing code
+- [newest-Mu](https://github.com/cylin577/newest-Mu): Fork of the Mu Palm OS emulator, focused on fixing issues and modernizing code
 - [TPT-builder](https://github.com/cylin577/TPT-builder): Utilities for The Powder Toy community
 - [linux-destroy](https://github.com/cylin577/linux-destroy): Fun and experimental Linux utilities
 - Contributed to [Azahar Emulator (Flathub)](https://github.com/flathub/org.azahar_emu.Azahar)
