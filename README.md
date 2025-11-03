@@ -20,7 +20,7 @@
 
 ## 🏆 Achievements
 - **Recompiled Mesa 10+ times:** Because I hate my self and I just want GPU working on my chromebook.
-
+- **Install devkitARM toolchain.......on an ARM device:** Guess where is Better-NFCReader made at?
 ## 🌐 Connect
 - 🌏 Location: Taiwan
 - 🏠 GitHub: [cylin577](https://github.com/cylin577)
