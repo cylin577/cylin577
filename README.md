@@ -1,1 +1,1 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=cylin577)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://raw.githubusercontent.com/cylin577/cylin577/refs/heads/main/profile/stats.svg)
